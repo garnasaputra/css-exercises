@@ -1,0 +1,14 @@
+.kiri,
+.kanan {
+    font-size: 28px;
+    font-family: helvetica, "Times New Roman", sans-serif;
+}
+
+.kiri {
+    color: white;
+    background-color: black;
+}
+
+.kanan {
+    background-color: yellow;
+}
