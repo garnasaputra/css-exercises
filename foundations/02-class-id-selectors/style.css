@@ -1,0 +1,19 @@
+.kelas {
+    background-color: rgb(255, 161, 161);
+    font-family: Verdana, sans-serif;
+}
+
+.lain {
+    font-size: 24px;
+}
+
+#one-id {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#another-id {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
